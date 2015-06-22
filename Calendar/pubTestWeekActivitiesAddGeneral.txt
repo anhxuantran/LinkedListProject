@@ -1,0 +1,7 @@
+  Day: Monday
+       Activity Name: Breakfast, StartTime: 8:30 am, EndTime: 9:30 am, Duration: 60
+       Activity Name: MeetingChair, StartTime: 9:30 am, EndTime: 10:30 am, Duration: 60
+       Activity Name: Lunch, StartTime: 12:00 pm, EndTime: 1:00 pm, Duration: 60
+       Activity Name: CoffeeBreak, StartTime: 3:00 pm, EndTime: 3:15 pm, Duration: 15
+  Day: Wednesday
+       Activity Name: Gym, StartTime: 11:00 am, EndTime: 12:15 pm, Duration: 75

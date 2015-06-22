@@ -1,0 +1,5 @@
+       Activity Name: Breakfast, StartTime: 6:30 am, EndTime: 7:00 am, Duration: 30
+       Activity Name: CoffeeBreak, StartTime: 10:00 am, EndTime: 10:15 am, Duration: 15
+       Activity Name: Lunch, StartTime: 12:45 pm, EndTime: 1:15 pm, Duration: 30
+       Activity Name: WorkOnProject, StartTime: 3:00 pm, EndTime: 3:45 pm, Duration: 45
+       Activity Name: WatchTV, StartTime: 5:30 pm, EndTime: 6:00 pm, Duration: 30
